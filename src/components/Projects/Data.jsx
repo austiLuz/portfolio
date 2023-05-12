@@ -30,7 +30,5 @@ export const projectsNav = [
     {
         name: "Tutorial",
     },
-    {
-        name: "Early Projects",
-    },
+    
 ];
