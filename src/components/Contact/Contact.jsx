@@ -1,6 +1,5 @@
 import React from 'react';
 import "./contact.css";
-import { HiOutlineMail, HiOutlineArrowSmRight } from "react-icons/hi"
 
 
 const Contact = () => {
